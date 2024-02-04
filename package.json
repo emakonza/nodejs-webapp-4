@@ -1,0 +1,15 @@
+{
+  "name": "evidence-nodejs",
+  "version": "1.0.0",
+  "description": "My Simple Node js Express App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evidence Makonza",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mocha": "^10.2.0"
+  }
+}
